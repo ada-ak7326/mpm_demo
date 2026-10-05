@@ -18,3 +18,6 @@ def pi_squared(x):
   
 def area:
     return x**2 * pi
+
+def random():
+    return np.random.rand()
