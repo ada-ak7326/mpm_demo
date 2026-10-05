@@ -15,3 +15,6 @@ def multiply_by_threepi(x):
 
 def pi_squared(x):
     return x**2
+  
+def area:
+    return x**2 * pi
