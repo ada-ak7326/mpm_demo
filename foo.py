@@ -13,5 +13,8 @@ def multiply_by_twopi(x):
 def multiply_by_threepi(x):
     return x*3*pi
 
-def area
+def pi_squared(x):
+    return x**2
+  
+def area:
     return x**2 * pi
